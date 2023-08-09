@@ -1,6 +1,6 @@
-# india_topic_modelling
+# Understanding Amazon Customer's main concerns using topic modelling techniques
 
-# My AIESEC Global Volunteer Internship In Graphic Era Deemed To Be University
+## My AIESEC Global Volunteer Internship In Graphic Era Deemed To Be University
 
 ### Dehradun / Uttarakhand / India
 
