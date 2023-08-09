@@ -6,4 +6,5 @@
 
 Used Python libraries: Pandas, NLTK
 
+Used Dataset: [Amazon Cellphone Reviews](https://www.kaggle.com/datasets/grikomsn/amazon-cell-phones-reviews)
 
