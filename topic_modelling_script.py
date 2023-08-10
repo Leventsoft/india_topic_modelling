@@ -9,5 +9,20 @@ for x in data.index:
         data.drop(x, inplace=True)
 
 #get the verified comments as a list
-reviews = data['body'].tolist()
+all_reviews = data['body'].tolist()
 
+#get rid of non-english comments
+from langdetect import detect
+
+# Function to check if a review is in English
+def is_english(text):
+    try:
+        lang = detect(text)
+        return lang == 'en'
+    except:
+        return False
+    
+# create a list with English reviews only
+english_reviews = [review for review in all_reviews if is_english(review)]
+
+import nltk
