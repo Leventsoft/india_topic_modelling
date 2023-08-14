@@ -22,7 +22,16 @@ def is_english(text):
     except:
         return False
     
-# create a list with English reviews only
+# create a list with English and verified reviews only
 english_reviews = [review for review in all_reviews if is_english(review)]
 
-import nltk
+#its working up until this point
+
+from nltk.corpus import stopwords
+nltk.download('stopwords')
+from nltk.tokenize import word_tokenize
+nltk.download('punkt')
+import string
+
+stop_words = set(stopwords.words('english'))
+translator = str.maketrans('', '', string.punctuation)
