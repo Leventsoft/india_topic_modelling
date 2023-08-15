@@ -1,0 +1,7 @@
+Topic 0: 0.071*"phone" + 0.013*"would" + 0.011*"get" + 0.010*"work" + 0.009*"one" + 0.009*"back" + 0.007*"time" + 0.007*"even" + 0.007*"buy" + 0.007*"could"
+Topic 1: 0.035*"phone" + 0.016*"camera" + 0.013*"phones" + 0.013*"one" + 0.012*"better" + 0.011*"samsung" + 0.011*"iphone" + 0.010*"like" + 0.009*"android" + 0.008*"much"
+Topic 2: 0.050*"bought" + 0.037*"one" + 0.034*"phone" + 0.026*"screen" + 0.026*"case" + 0.022*"dropped" + 0.019*"wife" + 0.019*"loves" + 0.015*"got" + 0.015*"gift"
+Topic 3: 0.118*"phone" + 0.067*"great" + 0.049*"good" + 0.039*"battery" + 0.027*"price" + 0.026*"love" + 0.022*"life" + 0.019*"works" + 0.019*"camera" + 0.018*"fast"
+Topic 4: 0.019*"phone" + 0.017*"apps" + 0.017*"use" + 0.010*"app" + 0.009*"google" + 0.007*"like" + 0.007*"android" + 0.006*"wifi" + 0.006*"card" + 0.006*"get"
+Topic 5: 0.073*"phone" + 0.030*"new" + 0.027*"sim" + 0.017*"card" + 0.017*"came" + 0.016*"works" + 0.016*"unlocked" + 0.015*"great" + 0.014*"product" + 0.014*"verizon"
+Topic 6: 0.067*"screen" + 0.028*"fingerprint" + 0.017*"case" + 0.014*"reader" + 0.011*"finger" + 0.011*"back" + 0.009*"glass" + 0.009*"sensor" + 0.009*"button" + 0.008*"display"
