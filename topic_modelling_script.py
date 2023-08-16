@@ -64,7 +64,7 @@ lda_model = models.LdaModel(bow_corpus, num_topics=num_topics, id2word=dictionar
 with open('topics.txt', "w") as f:
     for topic_id, topic_words in lda_model.print_topics():
         f.write(f"Topic {topic_id}: {topic_words}\n")
-
+ 
 # Retrieving assigned topics for each document
 document_topics = [lda_model[doc] for doc in bow_corpus]
 with open('topics_per_document.txt', "w") as g:
