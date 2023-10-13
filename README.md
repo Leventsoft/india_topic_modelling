@@ -1,6 +1,6 @@
 # Major Concern Identification of Users Using Topic Modelling In Amazon Review Dataset
 
-## My AIESEC Global Volunteer Internship Project In Graphic Era Deemed To Be University
+## My Internship Project In Graphic Era Deemed To Be University
 
 ### Dehradun / Uttarakhand / India
 
